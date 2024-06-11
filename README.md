@@ -44,3 +44,7 @@ To get started with VividHue-T-shirt-Online-Shopping, follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Article 
+
+[Medium](https://medium.com/@chiweiju0/⑨-擁抱多彩台灣-自創獨特t-shirt-random-color-1-3b7d43aad0da)
