@@ -12,7 +12,6 @@ Welcome to VividHue-T-shirt-Online-Shopping! This app is designed for Taiwanese 
 
 ## Screenshots
 ![image1](https://github.com/ccwj1970/VividHue-T-Shirt-Online-Shopping/assets/111756039/298c56aa-597b-4138-aa2a-e5a9c6df7f1b)
-![image2 png](https://github.com/ccwj1970/VividHue-T-Shirt-Online-Shopping/assets/111756039/787fca9f-99a3-4b7b-9c3c-afc9d565366b)
 
 
 ## Installation
